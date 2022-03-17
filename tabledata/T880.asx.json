@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"SGR",
+    "NAME1":"SGR Company",
+    "CNTRY":"DE",
+    "NAME2":"",
+    "LANGU":"D",
+    "STRET":"Rathhausplatz 1",
+    "POBOX":"",
+    "PSTLC":"69509",
+    "CITY":"Moerlenbach",
+    "CURR":"EUR",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
