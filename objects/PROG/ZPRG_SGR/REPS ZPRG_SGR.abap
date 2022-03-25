@@ -8,3 +8,4 @@ REPORT zprg_sgr.
 write 'hello'.
 **********************************************************************
 * comment for maintenance
+* added in adt
