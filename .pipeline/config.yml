@@ -3,11 +3,11 @@ steps:
   gctsDeploy:
     host: "https://tst.opensap.consarea.com:44300"
     client: "100"
-    abapCredentialsId: "<credentials_saved_in_jenkins>"
-    repository: "<repo_name>"
-    remoteRepositoryURL: "<repository_url>"
+    abapCredentialsId: "SGRNJ7OB_CRED"
+    repository: "SGRNJ7OB-workbench"
+    remoteRepositoryURL: "https://github.com/SGRNJ7OB/workbench"
     role: "SOURCE"
-    vSID: "<the_vsid_assigned_to_you>"
+    vSID: "SGR"
     verbose: true
     type: "GITHUB"
     rollback: false
